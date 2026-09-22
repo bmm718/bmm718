@@ -23,4 +23,4 @@ Practical agent skills for everyday life.
 ## 教程与联系
 
 - [B站：白毛毛莫慢待](https://space.bilibili.com/602247575)
-- [小红书](https://xhslink.com/m/7EIvfBx9bhJ)
+- [小红书：白思路白毛毛](https://xhslink.com/m/7EIvfBx9bhJ)
