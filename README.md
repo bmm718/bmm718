@@ -14,11 +14,11 @@ Practical agent skills for everyday life.
 
 ## 开源 Skills
 
-**BMMSkill** 是这套技能的集合，当前正在准备首次公开发布。
+**[BMMSkill](https://github.com/bmm718/bmmskill)** 是这套技能的集合。首个公开版本 **v0.1.0** 已发布。
 
 第一项是**文件管家**：按实际用途整理文件、核对重复、把确认多余的副本先放到待删除，并继续帮你归位和查找。重要判断留给你，默认不永久删除。
 
-公开下载和安装入口上线后会放在这里。
+[查看文件管家使用说明](https://github.com/bmm718/bmmskill/tree/main/bmms-file-steward) · [下载 v0.1.0 安装包](https://github.com/bmm718/bmmskill/releases/download/v0.1.0/bmms-file-steward-v0.1.0.zip)
 
 ## 教程与联系
 
