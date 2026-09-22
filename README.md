@@ -1,33 +1,26 @@
 # 白毛毛莫慢待 / BMM
 
-个人系统建设者，长期搭建可复用的 AI 工作流、知识系统和自研 skill。
+**一个致力于让人类少操点心的 AI 生活家。**
 
-A personal systems builder creating reusable AI workflows, knowledge systems, and custom agent skills.
+把生活里反复操心的小事，做成能交给 Agent 的技能。
 
-## 我在做什么 / What I Build
+Practical agent skills for everyday life.
 
-- 把重复的判断、整理和创作流程沉淀成可运行的 agent skills。
-- 搭建个人知识系统，让资料、判断和行动之间的路径更短。
-- 设计可复用的 AI 工作流，用来支持阅读、内容生产、项目管理和决策辅助。
+## 我在做什么
 
-- Turning repeated judgment, research, and creation workflows into runnable agent skills.
-- Building personal knowledge systems that shorten the path from information to action.
-- Designing reusable AI workflows for reading, content production, project management, and decision support.
+我正在做「让 Agent 帮人类节省精力计划」：从真实生活里的麻烦出发，把能交给 Agent 的部分整理成教程和开源 Skill。
 
-## 开源项目 / Open Source
+希望这些工具能帮你少花一点精力在重复的小事上，把时间留给自己想做的事。
 
-| 项目 / Project | 解决的问题 / Problem | 状态 / Status |
-|---|---|---|
-| 自研 skill 公共版 | 把个人系统里的可迁移方法整理成可复用 agent skills | 准备中 |
-| Public versions of custom skills | Turning transferable methods from a personal system into reusable agent skills | Preparing |
+## 开源 Skills
 
-## 工作方式 / Working Style
+**BMMSkill** 是这套技能的集合，当前正在准备首次公开发布。
 
-先把问题说清楚，再决定是否自动化；先沉淀可复用结构，再做局部工具。
+第一项是**文件管家**：按实际用途整理文件、核对重复、把确认多余的副本先放到待删除，并继续帮你归位和查找。重要判断留给你，默认不永久删除。
 
-Clarify the problem before automating it. Build reusable structures before adding local tools.
+公开下载和安装入口上线后会放在这里。
 
-## 联系与链接 / Links
+## 教程与联系
 
-- 小红书：白思路白毛毛
-- B站：白毛毛莫慢待
+- [B站：白毛毛莫慢待](https://space.bilibili.com/602247575)
+- [小红书](https://xhslink.com/m/7EIvfBx9bhJ)
