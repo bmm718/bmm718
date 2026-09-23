@@ -16,7 +16,7 @@ Practical agent skills for everyday life.
 
 **[BMM718-Skill](https://github.com/bmm718/BMM718-Skill)**，简称 **BMMS**，是我的开源技能集合。各项技能独立介绍，也可以单独安装。
 
-当前公开 **文件管家**：按实际用途整理文件、核对重复，把确认多余的副本先放到待删除，并继续帮你归位和查找。重要判断留给你，默认不永久删除。
+当前公开 **[文件管家](https://github.com/bmm718/BMM718-Skill/tree/main/skills/bmms-file-steward)**：按实际用途整理文件、核对重复，把确认多余的副本先放到待删除，并继续帮你归位和查找。重要判断留给你，默认不永久删除。
 
 - [浏览 BMMS 技能集合](https://github.com/bmm718/BMM718-Skill)
 - [打开文件管家使用说明](https://github.com/bmm718/BMM718-Skill/tree/main/skills/bmms-file-steward)
